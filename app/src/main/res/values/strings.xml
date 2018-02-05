@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Music Quiz</string>
+    <string name="name1">Name</string>
+    <string name="name2">Name: </string>
+
+    <string name="hi">"Hi "</string>
+    <string name="question1">Which is not an instrument?</string>
+    <string name="answer1q1">Piano</string>
+    <string name="answer2q1">Trumpet</string>
+    <string name="answer3q1">Pump</string>
+    <string name="answer4q1">Violin</string>
+    <string name="question2">Who composed "For Elise"?</string>
+    <string name="answer1q2">Wolfgang Amadeus Mozart</string>
+    <string name="answer2q2">Ludwig van Beethoven</string>
+    <string name="answer3q2">Joseph Haydn</string>
+    <string name="answer4q2">Johann Strauss</string>
+    <string name="question3">Which music note does not exist on a piano?</string>
+    <string name="answer1q3">C</string>
+    <string name="answer2q3">E</string>
+    <string name="answer3q3">H</string>
+    <string name="answer4q3">I</string>
+    <string name="question4">Which of the following instruments is the biggest?</string>
+    <string name="answer1q4">Bass</string>
+    <string name="answer2q4">Guitar</string>
+    <string name="answer3q4">Violin</string>
+    <string name="answer4q4">Trumpet</string>
+    <string name="question5">Where was Wolfgang Amadeus Mozart born?</string>
+    <string name="answer1q5">Spain</string>
+    <string name="answer2q5">Salzburg</string>
+    <string name="answer3q5">Italy</string>
+    <string name="answer4q5">Vienna</string>
+    <string name="submit">Submit</string>
+    <string name="info"> Hi and welcome to Music Quiz. There are five questions, for each there is one correct answer. </string>
+    <string name="back">Back</string>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#2b6cbf</color>
+    <color name="turkis">#5dc3ac</color>
+    <color name="red">#d03928</color>
+</resources>
